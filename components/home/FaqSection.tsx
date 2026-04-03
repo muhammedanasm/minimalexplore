@@ -107,7 +107,7 @@ export default function FaqSection() {
                 Didn&apos;t see your question?
               </h3>
               <p className="text-[14px] md:text-[15px] leading-relaxed opacity-70 mb-8 max-w-[240px]">
-                Our team is here to help — just reach out and we'll reply
+                Our team is here to help — just reach out and we&apos;ll reply
                 shortly.
               </p>
               <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center text-black shadow-lg hover:scale-110 transition-transform">

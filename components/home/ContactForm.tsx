@@ -2,7 +2,7 @@
 import React, { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { ArrowUpRight, Send, Mail, Phone, MapPin } from "lucide-react";
+import { ArrowUpRight, Mail, Phone } from "lucide-react";
 
 gsap.registerPlugin(ScrollTrigger);
 
