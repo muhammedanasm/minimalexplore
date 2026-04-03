@@ -87,7 +87,7 @@ export default function PlanningSection() {
               {/* Chat Bubbles */}
               <div className="mt-12 space-y-4">
                 <div className="bg-[#121212] text-white p-3 rounded-2xl rounded-tr-sm text-[11px] ml-auto max-w-[80%] leading-snug">
-                  Good morning! Ready for tomorrow's mountain trek?
+                  Good morning! Ready for tomorrow&apos;s mountain trek?
                 </div>
                 <div className="bg-[#F0F0F0] text-[#121212] p-3 rounded-2xl rounded-tl-sm text-[11px] mr-auto max-w-[80%] leading-snug">
                   Almost ready! What should I bring with me? 👌
@@ -112,8 +112,9 @@ export default function PlanningSection() {
           <div className="plan-reveal flex-1 flex flex-col justify-center py-8">
             <div className="max-w-sm space-y-8">
               <p className="text-[16px] md:text-[17px] leading-relaxed text-[#121212]/70">
-                We've gathered the most useful tips for first-time visitors —
-                from seasonal packing to how to prepare for Manali's terrain.
+                We&apos;ve gathered the most useful tips for first-time visitors
+                — from seasonal packing to how to prepare for Manali&apos;s
+                terrain.
               </p>
 
               <ul className="space-y-4">

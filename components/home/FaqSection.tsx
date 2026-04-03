@@ -104,7 +104,7 @@ export default function FaqSection() {
 
             <div className="absolute inset-0 p-10 flex flex-col justify-end text-white">
               <h3 className="text-[24px] md:text-[28px] font-medium tracking-tight mb-4">
-                Didn't see your question?
+                Didn&apos;t see your question?
               </h3>
               <p className="text-[14px] md:text-[15px] leading-relaxed opacity-70 mb-8 max-w-[240px]">
                 Our team is here to help — just reach out and we'll reply

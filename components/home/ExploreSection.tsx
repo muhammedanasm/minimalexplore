@@ -44,8 +44,8 @@ export default function ExploreSection() {
 
           <h2 className="reveal-explore text-[26px] md:text-[36px] leading-[1.1] font-normal tracking-[-0.04em] text-[#121212] mb-12">
             Discover beautiful routes and{" "}
-            <span className="text-gray-400">scenic spots</span> across Manali's
-            natural landscapes.
+            <span className="text-gray-400">scenic spots</span> across
+            Manali&apos;s natural landscapes.
           </h2>
 
           <div className="reveal-explore flex items-center gap-2.5">

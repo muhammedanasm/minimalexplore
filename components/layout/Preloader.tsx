@@ -4,7 +4,6 @@ import gsap from "gsap";
 
 export default function Preloader({ onComplete }: { onComplete: () => void }) {
   const counterRef = useRef<HTMLDivElement>(null);
-  const progressRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const tl = gsap.timeline({
@@ -12,7 +11,7 @@ export default function Preloader({ onComplete }: { onComplete: () => void }) {
     });
 
     // Percentage counter logic
-    let count = { value: 0 };
+    const count = { value: 0 };
     tl.to(count, {
       value: 100,
       duration: 2,

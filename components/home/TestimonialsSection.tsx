@@ -142,7 +142,7 @@ export default function TestimonialsSection() {
 
             <div className="mt-12 space-y-6">
               <p className="text-[14px] opacity-60 font-medium leading-relaxed">
-                Ready to plan your own journey? <br /> Let's get started!
+                Ready to plan your own journey? <br /> Let&apos;s get started!
               </p>
               <div className="flex items-center gap-2.5">
                 <button className="bg-[#121212] text-white px-8 py-4 rounded-full text-[12px] font-bold uppercase tracking-widest">
